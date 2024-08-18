@@ -1,2 +1,2 @@
 # helloworld
-Hello World test
+This is a test program that prints a message.
